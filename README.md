@@ -1,2 +1,2 @@
 # Portifolio
-Repositório direcionado à projetos de Análise de Dados com Python
+Repositório direcionado à projetos de Análise e Ciência de Dados utilizando Python
